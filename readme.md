@@ -16,6 +16,8 @@
 | Restrict absolute position | Keyboard X       | Y button           |
 | Toggle path follow         | Keyboard C       | A button           |
 | Place waypoint             | Keyboard V       | B button           |
+| Predictive pathing         | Tab              | Left bumper        |
+| Brake on waypointing       | Control          | Right bumper       |
 
 | Pathing Macro Controls | Keyboard Keybind | Controller Keybind |
 | ---------------------- | ---------------- | ------------------ |
