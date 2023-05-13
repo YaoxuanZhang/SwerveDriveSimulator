@@ -3,6 +3,8 @@
 A Unity physics-based game to simulate and learn swerve drive mechanics.
 Developed without external libraries other than built-in Unity math functions.
 The intended purpose of this game is to learn the vector mathematics behind the calculation and optimization of swerve drive mechanics and characteristics.
+There are limitations to the realism of this simulation, as the unrealistic friction creates excessive drifting.
+If the drifting is resolved, overshoot observed during pathing will be greatly reduced.
 
 ## Summary of Topics and Learning Time
 
