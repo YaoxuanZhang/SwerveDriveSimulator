@@ -1,25 +1,25 @@
 # Keybinds
 
-| Movement Controls | Keyboard Keybind | Controller Keybind             |
-| ----------------- | ---------------- | ------------------------------ |
-| Move up           | Keyboard W       | Left stick up (Controller)     |
-| Move down         | Keyboard S       | Left stick down (Controller)   |
-| Move left         | Keyboard A       | Left stick left (Controller)   |
-| Move right        | Keyboard D       | Left stick right (Controller)  |
-| Rotate left       | Keyboard Q       | Right stick left (Controller)  |
-| Rotate right      | Keyboard E       | Right stick right (Controller) |
+| Movement Controls | Keyboard Keybind | Controller Keybind |
+| ----------------- | ---------------- | ------------------ |
+| Move up           | Keyboard W       | Left stick up      |
+| Move down         | Keyboard S       | Left stick down    |
+| Move left         | Keyboard A       | Left stick left    |
+| Move right        | Keyboard D       | Left stick right   |
+| Rotate left       | Keyboard Q       | Right stick left   |
+| Rotate right      | Keyboard E       | Right stick right  |
 
-| Absolute Position Controls        | Keyboard Keybind | Controller Keybind            |
-| --------------------------------- | ---------------- | ----------------------------- |
-| Disable absolute position         | Spacebar         | Left stick press (Controller) |
-| Toggle absolute position          | Keyboard Z       | X button (Controller)         |
-| Restrict absolute position target | Keyboard X       | Y button (Controller)         |
-| Toggle path follow                | Keyboard C       | A button (Controller)         |
-| Place waypoint                    | Keyboard V       | B button (Controller)         |
+| Absolute Position Controls        | Keyboard Keybind | Controller Keybind |
+| --------------------------------- | ---------------- | ------------------ |
+| Disable absolute position         | Spacebar         | Left stick press   |
+| Toggle absolute position          | Keyboard Z       | X button           |
+| Restrict absolute position target | Keyboard X       | Y button           |
+| Toggle path follow                | Keyboard C       | A button           |
+| Place waypoint                    | Keyboard V       | B button           |
 
-| Pathing Macro Controls | Keyboard Keybind       | Controller Keybind       |
-| ---------------------- | ---------------------- | ------------------------ |
-| Preset 1               | Up arrow (Keyboard)    | D-pad up (Controller)    |
-| Preset 2               | Down arrow (Keyboard)  | D-pad down (Controller)  |
-| Preset 3               | Left arrow (Keyboard)  | D-pad left (Controller)  |
-| Preset 4               | Right arrow (Keyboard) | D-pad right (Controller) |
+| Pathing Macro Controls | Keyboard Keybind | Controller Keybind |
+| ---------------------- | ---------------- | ------------------ |
+| Preset 1               | Keyboard 1       | D-pad left         |
+| Preset 2               | Keyboard 2       | D-pad right        |
+| Preset 3               | Keyboard 3       | D-pad down         |
+| Preset 4               | Keyboard 4       | D-pad up           |
