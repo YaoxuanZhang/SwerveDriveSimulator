@@ -6,6 +6,8 @@ The intended purpose of this game is to learn the vector mathematics behind the 
 There are limitations to the realism of this simulation, as the unrealistic friction creates excessive drifting.
 If the drifting is resolved, overshoot observed during pathing will be greatly reduced.
 
+[**Click here to play**](https://yaoxuanzhang.github.io/SwerveDriveSimulator/)
+
 ## Summary of Topics and Learning Time
 
 | Topic                                       | Time Spent   |
