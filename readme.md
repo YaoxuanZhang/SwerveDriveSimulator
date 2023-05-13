@@ -9,13 +9,13 @@
 | Rotate left       | Keyboard Q       | Right stick left   |
 | Rotate right      | Keyboard E       | Right stick right  |
 
-| Absolute Position Controls        | Keyboard Keybind | Controller Keybind |
-| --------------------------------- | ---------------- | ------------------ |
-| Disable absolute position         | Spacebar         | Left stick press   |
-| Toggle absolute position          | Keyboard Z       | X button           |
-| Restrict absolute position target | Keyboard X       | Y button           |
-| Toggle path follow                | Keyboard C       | A button           |
-| Place waypoint                    | Keyboard V       | B button           |
+| Absolute Position Controls | Keyboard Keybind | Controller Keybind |
+| -------------------------- | ---------------- | ------------------ |
+| Disable absolute position  | Spacebar         | Left stick press   |
+| Toggle absolute position   | Keyboard Z       | X button           |
+| Restrict absolute position | Keyboard X       | Y button           |
+| Toggle path follow         | Keyboard C       | A button           |
+| Place waypoint             | Keyboard V       | B button           |
 
 | Pathing Macro Controls | Keyboard Keybind | Controller Keybind |
 | ---------------------- | ---------------- | ------------------ |
